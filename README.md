@@ -74,7 +74,6 @@ Remove any other A/AAAA records on `@` that point elsewhere. DNS can take from a
 
 ## Updating later
 
-Edit files, commit, and push to `main`. The workflow redeploys in about a minute (see the **Actions** tab).
 
 ## Credits
 
